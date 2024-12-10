@@ -270,6 +270,15 @@ footer .social-icons img {
     background-color: #f1f1f1;
 }
 
+#contacto h2 {
+    color: #1c3d63;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#contacto p {
+    text-align: center;
+}
 
 .imagen-box:hover {
     opacity: 0.8; 
@@ -294,3 +303,5 @@ footer .social-icons img {
 .box {
     animation: aparecer 1s ease forwards; 
 }
+
+
